@@ -1,3 +1,14 @@
+TCL FIXED ( COID ) 
+
+Ganti bundle partner diline 8 di file vidio.json, cek dulu bundle partner nya di menu nomor 5 jadi seperti ini
+
+![IMG-20230507-WA0039(1)](https://user-images.githubusercontent.com/115182304/236690460-c1a0692e-25c7-4250-a159-673efe6679c3.jpg)
+
+Bundle Active , berarti bisa dipakai, taruh di file vidio.json, tcl diganti bundle yang active dicek barusan
+
+Buat yang nanya-nya Subscribe Empty artinya TCL Mokad sattt
+
+
 ⚡ Vidio x Premier Platinum 
 
 ![IMG-20230507-WA0012](https://user-images.githubusercontent.com/115182304/236640476-99cfb58e-7fcb-43b7-940b-fe59e4a1e4bd.jpg)
