@@ -33,6 +33,8 @@ Note : Recommended Termux versi 0.117
 5. cd /storage/emulated/0
 6. git clone https://github.com/agathasangkara/vidio
 7. cd vidio
-8. php run.php
+8. php installer.php
+9. cek versi php mu dan kernel mu kemudian install
+10. php run.php
 
 Donate ( DANA ) : 0895415306281
